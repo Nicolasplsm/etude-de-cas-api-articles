@@ -1,3 +1,4 @@
+const articleRouter = require("./api/articles/articles.router");
 const express = require("express");
 const http = require("http");
 const { Server } = require("socket.io");
@@ -26,6 +27,8 @@ app.use(express.json());
 
 app.use("/api/users", authMiddleware, userRouter);
 app.post("/login", usersController.login);
+app.use("/api/articles", articleRouter);
+
 
 app.use("/", express.static("public"));
 
@@ -42,6 +45,8 @@ app.use((error, req, res, next) => {
     message,
   });
 });
+
+
 
 //démarrer le serveur
 const PORT = process.env.PORT || 3000;

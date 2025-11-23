@@ -1,0 +1,208 @@
+2025-11-23 13:04:51: Error [ERR_SERVER_ALREADY_LISTEN]: Listen method has been called more than once without closing.
+2025-11-23 13:04:51:     at Server.listen (node:net:1959:11)
+2025-11-23 13:04:51:     at Object.<anonymous> (C:\Users\lamas\Desktop\ISCOD\Étude de cas 3\Nodejs-Approfondissement\www\app.js:17:8)
+2025-11-23 13:04:51:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:04:51:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:04:51:     at Module.load (node:internal/modules/cjs/loader:1207:32)
+2025-11-23 13:04:51:     at Module._load (node:internal/modules/cjs/loader:1023:12)
+2025-11-23 13:04:51:     at Object.<anonymous> (C:\Users\lamas\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2025-11-23 13:04:51:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:04:51:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:04:51:     at Module.load (node:internal/modules/cjs/loader:1207:32) {
+2025-11-23 13:04:51:   code: 'ERR_SERVER_ALREADY_LISTEN'
+2025-11-23 13:04:51: }
+2025-11-23 13:04:52: Error [ERR_SERVER_ALREADY_LISTEN]: Listen method has been called more than once without closing.
+2025-11-23 13:04:52:     at Server.listen (node:net:1959:11)
+2025-11-23 13:04:52:     at Object.<anonymous> (C:\Users\lamas\Desktop\ISCOD\Étude de cas 3\Nodejs-Approfondissement\www\app.js:17:8)
+2025-11-23 13:04:52:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:04:52:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:04:52:     at Module.load (node:internal/modules/cjs/loader:1207:32)
+2025-11-23 13:04:52:     at Module._load (node:internal/modules/cjs/loader:1023:12)
+2025-11-23 13:04:52:     at Object.<anonymous> (C:\Users\lamas\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2025-11-23 13:04:52:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:04:52:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:04:52:     at Module.load (node:internal/modules/cjs/loader:1207:32) {
+2025-11-23 13:04:52:   code: 'ERR_SERVER_ALREADY_LISTEN'
+2025-11-23 13:04:52: }
+2025-11-23 13:04:52: Error [ERR_SERVER_ALREADY_LISTEN]: Listen method has been called more than once without closing.
+2025-11-23 13:04:52:     at Server.listen (node:net:1959:11)
+2025-11-23 13:04:52:     at Object.<anonymous> (C:\Users\lamas\Desktop\ISCOD\Étude de cas 3\Nodejs-Approfondissement\www\app.js:17:8)
+2025-11-23 13:04:52:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:04:52:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:04:52:     at Module.load (node:internal/modules/cjs/loader:1207:32)
+2025-11-23 13:04:52:     at Module._load (node:internal/modules/cjs/loader:1023:12)
+2025-11-23 13:04:52:     at Object.<anonymous> (C:\Users\lamas\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2025-11-23 13:04:52:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:04:52:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:04:52:     at Module.load (node:internal/modules/cjs/loader:1207:32) {
+2025-11-23 13:04:52:   code: 'ERR_SERVER_ALREADY_LISTEN'
+2025-11-23 13:04:52: }
+2025-11-23 13:04:53: Error [ERR_SERVER_ALREADY_LISTEN]: Listen method has been called more than once without closing.
+2025-11-23 13:04:53:     at Server.listen (node:net:1959:11)
+2025-11-23 13:04:53:     at Object.<anonymous> (C:\Users\lamas\Desktop\ISCOD\Étude de cas 3\Nodejs-Approfondissement\www\app.js:17:8)
+2025-11-23 13:04:53:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:04:53:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:04:53:     at Module.load (node:internal/modules/cjs/loader:1207:32)
+2025-11-23 13:04:53:     at Module._load (node:internal/modules/cjs/loader:1023:12)
+2025-11-23 13:04:53:     at Object.<anonymous> (C:\Users\lamas\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2025-11-23 13:04:53:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:04:53:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:04:53:     at Module.load (node:internal/modules/cjs/loader:1207:32) {
+2025-11-23 13:04:53:   code: 'ERR_SERVER_ALREADY_LISTEN'
+2025-11-23 13:04:53: }
+2025-11-23 13:04:54: Error [ERR_SERVER_ALREADY_LISTEN]: Listen method has been called more than once without closing.
+2025-11-23 13:04:54:     at Server.listen (node:net:1959:11)
+2025-11-23 13:04:54:     at Object.<anonymous> (C:\Users\lamas\Desktop\ISCOD\Étude de cas 3\Nodejs-Approfondissement\www\app.js:17:8)
+2025-11-23 13:04:54:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:04:54:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:04:54:     at Module.load (node:internal/modules/cjs/loader:1207:32)
+2025-11-23 13:04:54:     at Module._load (node:internal/modules/cjs/loader:1023:12)
+2025-11-23 13:04:54:     at Object.<anonymous> (C:\Users\lamas\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2025-11-23 13:04:54:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:04:54:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:04:54:     at Module.load (node:internal/modules/cjs/loader:1207:32) {
+2025-11-23 13:04:54:   code: 'ERR_SERVER_ALREADY_LISTEN'
+2025-11-23 13:04:54: }
+2025-11-23 13:04:55: Error [ERR_SERVER_ALREADY_LISTEN]: Listen method has been called more than once without closing.
+2025-11-23 13:04:55:     at Server.listen (node:net:1959:11)
+2025-11-23 13:04:55:     at Object.<anonymous> (C:\Users\lamas\Desktop\ISCOD\Étude de cas 3\Nodejs-Approfondissement\www\app.js:17:8)
+2025-11-23 13:04:55:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:04:55:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:04:55:     at Module.load (node:internal/modules/cjs/loader:1207:32)
+2025-11-23 13:04:55:     at Module._load (node:internal/modules/cjs/loader:1023:12)
+2025-11-23 13:04:55:     at Object.<anonymous> (C:\Users\lamas\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2025-11-23 13:04:55:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:04:55:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:04:55:     at Module.load (node:internal/modules/cjs/loader:1207:32) {
+2025-11-23 13:04:55:   code: 'ERR_SERVER_ALREADY_LISTEN'
+2025-11-23 13:04:55: }
+2025-11-23 13:04:55: Error [ERR_SERVER_ALREADY_LISTEN]: Listen method has been called more than once without closing.
+2025-11-23 13:04:55:     at Server.listen (node:net:1959:11)
+2025-11-23 13:04:55:     at Object.<anonymous> (C:\Users\lamas\Desktop\ISCOD\Étude de cas 3\Nodejs-Approfondissement\www\app.js:17:8)
+2025-11-23 13:04:55:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:04:55:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:04:55:     at Module.load (node:internal/modules/cjs/loader:1207:32)
+2025-11-23 13:04:55:     at Module._load (node:internal/modules/cjs/loader:1023:12)
+2025-11-23 13:04:55:     at Object.<anonymous> (C:\Users\lamas\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2025-11-23 13:04:55:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:04:55:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:04:55:     at Module.load (node:internal/modules/cjs/loader:1207:32) {
+2025-11-23 13:04:55:   code: 'ERR_SERVER_ALREADY_LISTEN'
+2025-11-23 13:04:55: }
+2025-11-23 13:04:56: Error [ERR_SERVER_ALREADY_LISTEN]: Listen method has been called more than once without closing.
+2025-11-23 13:04:56:     at Server.listen (node:net:1959:11)
+2025-11-23 13:04:56:     at Object.<anonymous> (C:\Users\lamas\Desktop\ISCOD\Étude de cas 3\Nodejs-Approfondissement\www\app.js:17:8)
+2025-11-23 13:04:56:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:04:56:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:04:56:     at Module.load (node:internal/modules/cjs/loader:1207:32)
+2025-11-23 13:04:56:     at Module._load (node:internal/modules/cjs/loader:1023:12)
+2025-11-23 13:04:56:     at Object.<anonymous> (C:\Users\lamas\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2025-11-23 13:04:56:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:04:56:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:04:56:     at Module.load (node:internal/modules/cjs/loader:1207:32) {
+2025-11-23 13:04:56:   code: 'ERR_SERVER_ALREADY_LISTEN'
+2025-11-23 13:04:56: }
+2025-11-23 13:04:57: Error [ERR_SERVER_ALREADY_LISTEN]: Listen method has been called more than once without closing.
+2025-11-23 13:04:57:     at Server.listen (node:net:1959:11)
+2025-11-23 13:04:57:     at Object.<anonymous> (C:\Users\lamas\Desktop\ISCOD\Étude de cas 3\Nodejs-Approfondissement\www\app.js:17:8)
+2025-11-23 13:04:57:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:04:57:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:04:57:     at Module.load (node:internal/modules/cjs/loader:1207:32)
+2025-11-23 13:04:57:     at Module._load (node:internal/modules/cjs/loader:1023:12)
+2025-11-23 13:04:57:     at Object.<anonymous> (C:\Users\lamas\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2025-11-23 13:04:57:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:04:57:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:04:57:     at Module.load (node:internal/modules/cjs/loader:1207:32) {
+2025-11-23 13:04:57:   code: 'ERR_SERVER_ALREADY_LISTEN'
+2025-11-23 13:04:57: }
+2025-11-23 13:04:58: Error [ERR_SERVER_ALREADY_LISTEN]: Listen method has been called more than once without closing.
+2025-11-23 13:04:58:     at Server.listen (node:net:1959:11)
+2025-11-23 13:04:58:     at Object.<anonymous> (C:\Users\lamas\Desktop\ISCOD\Étude de cas 3\Nodejs-Approfondissement\www\app.js:17:8)
+2025-11-23 13:04:58:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:04:58:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:04:58:     at Module.load (node:internal/modules/cjs/loader:1207:32)
+2025-11-23 13:04:58:     at Module._load (node:internal/modules/cjs/loader:1023:12)
+2025-11-23 13:04:58:     at Object.<anonymous> (C:\Users\lamas\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2025-11-23 13:04:58:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:04:58:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:04:58:     at Module.load (node:internal/modules/cjs/loader:1207:32) {
+2025-11-23 13:04:58:   code: 'ERR_SERVER_ALREADY_LISTEN'
+2025-11-23 13:04:58: }
+2025-11-23 13:04:59: Error [ERR_SERVER_ALREADY_LISTEN]: Listen method has been called more than once without closing.
+2025-11-23 13:04:59:     at Server.listen (node:net:1959:11)
+2025-11-23 13:04:59:     at Object.<anonymous> (C:\Users\lamas\Desktop\ISCOD\Étude de cas 3\Nodejs-Approfondissement\www\app.js:17:8)
+2025-11-23 13:04:59:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:04:59:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:04:59:     at Module.load (node:internal/modules/cjs/loader:1207:32)
+2025-11-23 13:04:59:     at Module._load (node:internal/modules/cjs/loader:1023:12)
+2025-11-23 13:04:59:     at Object.<anonymous> (C:\Users\lamas\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2025-11-23 13:04:59:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:04:59:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:04:59:     at Module.load (node:internal/modules/cjs/loader:1207:32) {
+2025-11-23 13:04:59:   code: 'ERR_SERVER_ALREADY_LISTEN'
+2025-11-23 13:04:59: }
+2025-11-23 13:04:59: Error [ERR_SERVER_ALREADY_LISTEN]: Listen method has been called more than once without closing.
+2025-11-23 13:04:59:     at Server.listen (node:net:1959:11)
+2025-11-23 13:04:59:     at Object.<anonymous> (C:\Users\lamas\Desktop\ISCOD\Étude de cas 3\Nodejs-Approfondissement\www\app.js:17:8)
+2025-11-23 13:04:59:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:04:59:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:04:59:     at Module.load (node:internal/modules/cjs/loader:1207:32)
+2025-11-23 13:04:59:     at Module._load (node:internal/modules/cjs/loader:1023:12)
+2025-11-23 13:04:59:     at Object.<anonymous> (C:\Users\lamas\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2025-11-23 13:04:59:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:04:59:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:04:59:     at Module.load (node:internal/modules/cjs/loader:1207:32) {
+2025-11-23 13:04:59:   code: 'ERR_SERVER_ALREADY_LISTEN'
+2025-11-23 13:04:59: }
+2025-11-23 13:05:00: Error [ERR_SERVER_ALREADY_LISTEN]: Listen method has been called more than once without closing.
+2025-11-23 13:05:00:     at Server.listen (node:net:1959:11)
+2025-11-23 13:05:00:     at Object.<anonymous> (C:\Users\lamas\Desktop\ISCOD\Étude de cas 3\Nodejs-Approfondissement\www\app.js:17:8)
+2025-11-23 13:05:00:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:05:00:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:05:00:     at Module.load (node:internal/modules/cjs/loader:1207:32)
+2025-11-23 13:05:00:     at Module._load (node:internal/modules/cjs/loader:1023:12)
+2025-11-23 13:05:00:     at Object.<anonymous> (C:\Users\lamas\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2025-11-23 13:05:00:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:05:00:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:05:00:     at Module.load (node:internal/modules/cjs/loader:1207:32) {
+2025-11-23 13:05:00:   code: 'ERR_SERVER_ALREADY_LISTEN'
+2025-11-23 13:05:00: }
+2025-11-23 13:05:01: Error [ERR_SERVER_ALREADY_LISTEN]: Listen method has been called more than once without closing.
+2025-11-23 13:05:01:     at Server.listen (node:net:1959:11)
+2025-11-23 13:05:01:     at Object.<anonymous> (C:\Users\lamas\Desktop\ISCOD\Étude de cas 3\Nodejs-Approfondissement\www\app.js:17:8)
+2025-11-23 13:05:01:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:05:01:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:05:01:     at Module.load (node:internal/modules/cjs/loader:1207:32)
+2025-11-23 13:05:01:     at Module._load (node:internal/modules/cjs/loader:1023:12)
+2025-11-23 13:05:01:     at Object.<anonymous> (C:\Users\lamas\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2025-11-23 13:05:01:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:05:01:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:05:01:     at Module.load (node:internal/modules/cjs/loader:1207:32) {
+2025-11-23 13:05:01:   code: 'ERR_SERVER_ALREADY_LISTEN'
+2025-11-23 13:05:01: }
+2025-11-23 13:05:02: Error [ERR_SERVER_ALREADY_LISTEN]: Listen method has been called more than once without closing.
+2025-11-23 13:05:02:     at Server.listen (node:net:1959:11)
+2025-11-23 13:05:02:     at Object.<anonymous> (C:\Users\lamas\Desktop\ISCOD\Étude de cas 3\Nodejs-Approfondissement\www\app.js:17:8)
+2025-11-23 13:05:02:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:05:02:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:05:02:     at Module.load (node:internal/modules/cjs/loader:1207:32)
+2025-11-23 13:05:02:     at Module._load (node:internal/modules/cjs/loader:1023:12)
+2025-11-23 13:05:02:     at Object.<anonymous> (C:\Users\lamas\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2025-11-23 13:05:02:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:05:02:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:05:02:     at Module.load (node:internal/modules/cjs/loader:1207:32) {
+2025-11-23 13:05:02:   code: 'ERR_SERVER_ALREADY_LISTEN'
+2025-11-23 13:05:02: }
+2025-11-23 13:05:02: Error [ERR_SERVER_ALREADY_LISTEN]: Listen method has been called more than once without closing.
+2025-11-23 13:05:02:     at Server.listen (node:net:1959:11)
+2025-11-23 13:05:02:     at Object.<anonymous> (C:\Users\lamas\Desktop\ISCOD\Étude de cas 3\Nodejs-Approfondissement\www\app.js:17:8)
+2025-11-23 13:05:02:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:05:02:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:05:02:     at Module.load (node:internal/modules/cjs/loader:1207:32)
+2025-11-23 13:05:02:     at Module._load (node:internal/modules/cjs/loader:1023:12)
+2025-11-23 13:05:02:     at Object.<anonymous> (C:\Users\lamas\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2025-11-23 13:05:02:     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2025-11-23 13:05:02:     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2025-11-23 13:05:02:     at Module.load (node:internal/modules/cjs/loader:1207:32) {
+2025-11-23 13:05:02:   code: 'ERR_SERVER_ALREADY_LISTEN'
+2025-11-23 13:05:02: }

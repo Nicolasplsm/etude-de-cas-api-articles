@@ -14,10 +14,6 @@ const io = new Server(server);
 
 io.on("connection", (socket) => {
   console.log("a user connected");
-  /*socket.on("my_event", (data) => {
-    console.log(data);
-  });
-  io.emit("event_from_server", { test: "foo" });*/
 });
 
 app.use((req, res, next) => {
@@ -45,6 +41,13 @@ app.use((error, req, res, next) => {
     status,
     message,
   });
+});
+
+//démarrer le serveur
+const PORT = process.env.PORT || 3000;
+
+server.listen(PORT, () => {
+  console.log(`Server running on port ${PORT}`);
 });
 
 module.exports = {

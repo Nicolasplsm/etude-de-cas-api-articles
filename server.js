@@ -24,8 +24,8 @@ app.use((req, res, next) => {
 
 app.use(cors());
 app.use(express.json());
-
-app.use("/api/users", authMiddleware, userRouter);
+// endpoint maintenant publique pour l'exercice 4
+app.use("/api/users", userRouter);
 app.post("/login", usersController.login);
 app.use("/api/articles", articleRouter);
 

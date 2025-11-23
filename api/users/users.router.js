@@ -7,5 +7,7 @@ router.get("/:id", usersController.getById);
 router.post("/", usersController.create);
 router.put("/:id", usersController.update);
 router.delete("/:id", usersController.delete);
+// endpoint public pour les articles d'un utilisateur
+router.get("/:userId/articles", usersController.getArticlesByUser);
 
 module.exports = router;

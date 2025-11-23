@@ -17,7 +17,9 @@ class ArticlesService {
     return Article.findByIdAndDelete(id);
   }
 
-  // récupérer tous les articles d’un user
+  // utilisé pour l'exercice 4
+  // récupère tous les articles d'un utilisateur,
+  // et populate le user sans le mot de passe
   getByUser(userId) {
     return Article.find({ user: userId }).populate("user", "-password");
   }

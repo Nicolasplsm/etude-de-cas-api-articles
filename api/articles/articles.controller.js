@@ -1,8 +1,4 @@
 const NotFoundError = require("../../errors/not-found");
-const UnauthorizedError = require("../../errors/unauthorized");
-const jwt = require("jsonwebtoken");
-const config = require("../../config");
-const usersService = require("./users.service");
 const articlesService = require("./articles.service");
 
 class ArticlesController {
@@ -28,7 +24,7 @@ class ArticlesController {
     }
   }
 
-  // Mise à jour – réservé aux admins
+  // Mise à jour – réservée aux admins
   async update(req, res, next) {
     try {
       // contrôle du rôle
@@ -73,17 +69,6 @@ class ArticlesController {
       next(err);
     }
   }
-
-    async getArticlesByUser(req, res, next) {
-    try {
-      const userId = req.params.userId;
-      const articles = await articlesService.getByUser(userId);
-      res.json(articles);
-    } catch (err) {
-      next(err);
-    }
-  }
-
 }
 
 module.exports = new ArticlesController();
